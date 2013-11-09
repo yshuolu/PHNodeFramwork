@@ -1,0 +1,16 @@
+{
+  "name": "PHNodeServer",
+  "version": "1.0.0",
+  "description": "A simple node.js server application",
+  "dependencies": {
+    "mime": "~1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./lib/server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Phineas",
+  "license": "BSD"
+}

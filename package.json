@@ -1,0 +1,12 @@
+{
+	"name": "PHNodeServer",
+	"version": "0.0.1",
+	"description": "This is a simple file server.",
+	"author": "PhineasLue",
+	"dependencies": {
+		"mime": "1.2.x"
+	},
+	"scripts": {
+		"start": "node ./lib/server/app.js"
+	}
+}
