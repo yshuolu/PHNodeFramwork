@@ -4,7 +4,8 @@
 	"description": "This is a simple file server.",
 	"author": "PhineasLue",
 	"dependencies": {
-		"mime": "1.2.x"
+		"mime": "1.2.x",
+		"poor-form": "1.1.x"
 	},
 	"scripts": {
 		"start": "node ./lib/server/app.js"
